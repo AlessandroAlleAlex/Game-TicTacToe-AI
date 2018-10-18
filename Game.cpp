@@ -137,13 +137,13 @@ void Game::title()
 {
 	cout << "|==============================================================================|\n";
 	cout << "|                   Tic Tac Toe Game with AI implementation                    |\n";
-	cout << "|                   FINAL PROJECT FOR THE CLASS --> CIS 27                     |\n";
-	cout << "|                                                                              |\n";
+	cout << "|                   					                        |\n";
+	cout << "|                                 It's fun!                                    |\n";
 	cout << "|                                                                              |\n";
 	cout << "|                                                                              |\n";
 	cout << "|                                    by                                        |\n";
-	cout << "|                               ALESSANDRO LIU                                 |\n";
-	cout << "|                                2018 Spring                                   |\n";
+	cout << "|                            AlessandroAlleAlex                                |\n";
+	cout << "|                                   2018                                       |\n";
 	cout << "|                                                                              |\n";
 	cout << "|                                                                              |\n";
 	cout << "|                                                                              |\n";
